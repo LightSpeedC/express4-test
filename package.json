@@ -1,0 +1,24 @@
+{
+  "name": "express4-test",
+  "version": "0.0.0",
+  "description": "express4-test",
+  "keywords": [
+    "express4",
+    "test"
+  ],
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.10.4"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repo"
+  },
+  "author": "LightSpeedC",
+  "license": "MIT"
+}
